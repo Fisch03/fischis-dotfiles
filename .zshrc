@@ -107,4 +107,4 @@ export ZSH_AUTOSUGGEST_HIGHLIGHT_STYLE="fg=0"
 export ZSH_AUTOSUGGEST_STRATEGY=(history completion)
 
 # Dotfiles Repo alias
-alias dotrepo='/usr/bin/git --git-dir=/home/fisch03/fischis-dotfiles/ --work-tree=/home/fisch03'
+alias dotrepo='/usr/bin/git --git-dir=/home/fisch03/Dotfiles/fischis-dotfiles/ --work-tree=/home/fisch03'
