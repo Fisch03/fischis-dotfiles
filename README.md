@@ -3,7 +3,7 @@
 
 ### They affect the following tools and programs:
 - [i3-gaps](https://github.com/resloved/i3) (not the official repo!)
-- [compton](https://github.com/chjj/compton)
+- [compton](https://github.com/tryone144/compton) (also not the official repo!)
 - [polybar](https://polybar.github.io/)
 - [rofi](https://github.com/davatorium/rofi)
 - [dunst](https://dunst-project.org/)
