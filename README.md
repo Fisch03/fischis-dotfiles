@@ -1,5 +1,5 @@
 # fischis-dotfiles
-## Those are my dotfiles, focused on providing a minimal look while still retaining the efficiency of a more standart setup.
+## Those are my (old) dotfiles, focused on providing a minimal look while still retaining the efficiency of a more standart setup. These are not actively maintained and are a pain to install. Check out my [new dotfiles](https://github.com/Fisch03/fischis-dotfiles-rev2)
 
 ### They affect the following tools and programs:
 - [i3-gaps](https://github.com/resloved/i3) (not the official repo!)
